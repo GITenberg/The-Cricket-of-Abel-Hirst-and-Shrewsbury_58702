@@ -1,5 +1,8 @@
 _repo: The-Cricket-of-Abel-Hirst-and-Shrewsbury_58702
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58702-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '50107'
     url: http://www.gutenberg.org/2009/agents/50107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58702#The-Cricket-of-Abel-Hirst-and-Shrewsbury
 gutenberg_issued: '2019-01-15'
 gutenberg_type: Text
 identifiers:
